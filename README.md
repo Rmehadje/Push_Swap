@@ -11,9 +11,9 @@
 
 ### Installation
 1. Clone the repository:
-   ```
+```
    git clone https://github.com/your-username/42-push-swap.git
-    ```
+```
 2. Access the repository:
 ```
    cd 42-push-swap
